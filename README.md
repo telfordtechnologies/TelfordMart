@@ -10,14 +10,14 @@ An eCommerce site for the Telford Clan
 ## Goals
 
 1. To have finished the planning and layout phase by April 22nd, including:
-  - A User Story
-  - An MVP
-  - Mock-ups of all views
-  - A component tree
-  - A schema and endpoint lists
-  - A list of necessary technologies, ordered by what we know and what we'd like to learn.
-  - A list of desired skills, such as security, data management, best practices, test-based development, et cetera.
-  - A roadmap (e.g., a to-do list, including guidelines on workflow and coordination.)
+   - A User Story
+   - An MVP
+   - Mock-ups of all views
+   - A component tree
+   - A schema and endpoint lists
+   - A list of necessary technologies, ordered by what we know and what we'd like to learn.
+   - A list of desired skills, such as security, data management, best practices, test-based development, et cetera.
+   - A roadmap (e.g., a to-do list, including guidelines on workflow and coordination.)
 
 2. To have completed a proof of concept on every necessary technology by May 13th.
 
