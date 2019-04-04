@@ -1,0 +1,14 @@
+The User Can:
+- View Products
+- View product details.
+- Add a product to their cart
+- Remove products from their cart
+- Change the quantity of a product
+
+Stories:
+
+Mary sees an ad on Facebook and clicks. The site loads quickly and she can immediately see our eclectic and unique inventory, likely sorted by the subject of the ad. Mary is able to intuitively access product information without breaking her flow. Mary adds a handful of items to her cart but decides not to order them without checking our reviews, and exits the site. When she returns a few days later, the items are still in her cart. She removes one item she's decided against, checks out with payPal, and decides to return later.
+
+Bob searches "Disneyland Decorations" and scrolls until he sees our site. Intrigued, he clicks in. The site loads onto the Disneyland sign page. He determines the size of the sign, adds it to the cart, and makes the purchase with a credit card. He immediately recieves a receipt with additional information about his purchase.
+
+Danny sees a Facebook add and immediately thinks of a friend. He sees one of Michelle's paintings, copies the link, and sends it to them. He also sends them a link to subscribe to our NewProducts notifications. 
